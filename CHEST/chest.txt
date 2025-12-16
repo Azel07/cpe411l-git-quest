@@ -1,0 +1,5 @@
+This chest is locked.
+
+CHEST-CODE: FOX-7
+
+Do not change the code. Just read it.
