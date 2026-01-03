@@ -1,8 +1,8 @@
 # Git Quest Completion Proof ✅
 
-James Ruzzel Y. Reyes
-CPE - 4A
-Azel07
+**Name: James Ruzzel Y. Reyes**  
+**Section: CPE - 4A**  
+**GitHub Username: Azel07**  
 
 ## Final Code Word
 
